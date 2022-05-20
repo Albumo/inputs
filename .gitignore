@@ -1,0 +1,10 @@
+node_modules
+build_S_1_theme
+builds_all
+markup/pages/*
+
+.tmpTemplater
+.tmpPreproc
+
+.idea
+.DS_Store

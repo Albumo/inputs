@@ -1,0 +1,20 @@
+include ../components/common/head
+include ../components/common/include-js
+include ../components/common/img-svg
+
+include ../components/%=component_header=%/header/header
+include ../components/%=component_select=%/select/select
+include ../components/%=component_progress=%/progress/progress
+include ../components/%=component_footer=%/footer/footer
+
+doctype html
+html(class="no-js" lang="en")
+    head
+        +head
+    body
+        .w-outer
+            block content
+
+        +include-js
+
+        block scripts

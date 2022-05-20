@@ -1,0 +1,21 @@
+{
+  "component_header": {
+    "number": "S_1",
+    "name": "header"
+  },
+
+  "component_select": {
+    "number": "S_1",
+    "name": "select"
+  },
+
+  "component_progress": {
+    "number": "S_1",
+    "name": "progress"
+  },
+
+  "component_footer": {
+    "number": "S_1",
+    "name": "footer"
+  }
+}
